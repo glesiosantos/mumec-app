@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/main/resources/templates/mumec_logo.png" width="250px"/>
+    <img src="./src/assets/mumec_logo.png" width="250px"/>
 </div>
 
 ## MUMEC (Multi Mecânicas)- Gestor de Oficinas Mecânicas multi-plataforma
